@@ -28,5 +28,6 @@
 ## 快速入口
 
 - 🌐 站点首页：https://model.midalo.ai/
+- ⭐ GitHub 仓库：https://github.com/1MoreTiaoTiaowa/chatgpt-api-cn-guide （觉得有用欢迎 Star）
 - 💬 客服 QQ：480419379
 - 💬 QQ群：389039568
